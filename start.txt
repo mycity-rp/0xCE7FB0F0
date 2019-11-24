@@ -1,9 +1,3 @@
 # rage-level ##
 
-start rage-level-1
-start rage-level-2
-start rage-level-3
-start rage-level-4
-
-# Very important ! #
-start rage-level-its
+start rage-level
