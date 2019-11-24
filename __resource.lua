@@ -3,6 +3,11 @@ this_is_a_map 'yes'
 
 client_script 'client.lua'
 
+data_file "INTERIOR_PROXY_ORDER_FILE" "interiorproxies.meta"
+
+files {
+"interiorproxies.meta"
+}
 
 data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_accs.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_accs_01.ytyp'
