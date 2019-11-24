@@ -1,6 +1,6 @@
 # rage-level
 
-<p> ITS = IN TWO STEPS <p>
-<p> WHAT IS THIS ? <p>
-<p> ITS A BETTER OPTIMIZATION FOR STREAMING MILOS OR OVERHANDLING STUFF <p>
+What is this ?
+
+<p> It's +75 MLOs and OMS ( Other modding stuff ) streamed into only ONE ressource. <p>
 
