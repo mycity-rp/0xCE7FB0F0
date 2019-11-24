@@ -1,9 +1,9 @@
 # rage-level ##
 
-start level_immovable
-start level_citizen
-start level_gang
-start level_org
+start rage-level-1
+start rage-level-2
+start rage-level-3
+start rage-level-4
 
 # Very important ! #
-start rage-its
+start rage-level-its
