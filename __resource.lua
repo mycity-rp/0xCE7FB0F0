@@ -3,10 +3,12 @@ this_is_a_map 'yes'
 
 client_script 'client.lua'
 
+
+
+
+
 data_file "INTERIOR_PROXY_ORDER_FILE" "interiorproxies.meta"
-data_file "mp_f_freemode_01_gunrunning_hair_shop.meta"
-data_file "mp_m_freemode_01_gunrunning_hair_shop.meta"
-data_file "pedalternatevariations.meta"
+
 
 files {
 "interiorproxies.meta",
