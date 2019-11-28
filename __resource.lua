@@ -1,23 +1,23 @@
 resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 this_is_a_map 'yes'
 
-client_script 'client.lua'
-
-
+client_script {
+    "main.lua",
+	"client.lua"
+}
 
 
 
 data_file "INTERIOR_PROXY_ORDER_FILE" "interiorproxies.meta"
 
-
 files {
 "interiorproxies.meta",
-"mp_f_freemode_01_gunrunning_hair_shop.meta",
-"mp_m_freemode_01_gunrunning_hair_shop.meta",
-"pedalternatevariations.meta",
+
 }
 
 data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_accs.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/ydr/gabz_lost_props.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/v_int_5.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_accs_01.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_animated_walls.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_cabinets.ytyp'
