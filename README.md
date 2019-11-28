@@ -2,7 +2,7 @@
 
 What is this ?
 
-<p> It's +75 MLOs and OMS ( Other modding stuff ) streamed into only ONE ressource. <p>
+<p> Actually 40 MLOs streamed into only ONE ressource. <p>
 
 What is in :
 
