@@ -26,7 +26,7 @@ RequestIpl("vw_casino_main")
 	
 -- PATTERN 1 até o 9
 
-	EnableInteriorProp(interiorID, "teste11")  --"pattern_07"
+	EnableInteriorProp(interiorID, "teste11")  --"pattern_07"e'
 -- ARCADES - PROPS - BALOONS
 
 	EnableInteriorProp(interiorID, "teste17") --"arcade"
