@@ -78,5 +78,9 @@
 <Item>int_bank_milo_</Item>
 <Item>int_luxury_milo_</Item>
 <Item>int_sheriff_milo_</Item>
+<Item>int_hospb_milo_</Item>
+<Item>int_sheriff_milo_</Item>
+<Item>int_sheriff_milo_</Item>
+<Item>int_sheriff_milo_</Item>
   </proxies>
 </SInteriorOrderData>
