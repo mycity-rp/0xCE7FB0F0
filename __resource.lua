@@ -1,19 +1,21 @@
 resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 this_is_a_map 'yes'
 
-client_script {
-    "main.lua",
-	"client.lua"
-}
-
-
-
-data_file "INTERIOR_PROXY_ORDER_FILE" "interiorproxies.meta"
-
 files {
-"interiorproxies.meta",
-
+	'audio/bahamamamas_game.dat151.rel',
+	'audio/bahamamamas_sounds.dat54.rel',
+	'audio/sfx/dlc_bahamamamas/bahama_mamas_club_mix.awc'
 }
+
+client_scripts {
+	'config.lua',
+	'main.lua',
+	'client.lua'
+}
+
+data_file 'AUDIO_GAMEDATA' 'audio/bahamamamas_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/bahamamamas_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_bahamamamas'
 
 data_file 'DLC_ITYP_REQUEST' 'stream/vw_prop_vw_accs.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'stream/ydr/gabz_lost_props.ytyp'
