@@ -120,7 +120,7 @@ function LoadBahamas()
 	if IsPedArmed(PlayerPedId(), 7) then
 		SetCurrentPedWeapon(PlayerPedId(), "WEAPON_UNARMED" ,true)
 	end
-	showClubNotification("We don't tolerate any violence around here. We will be holding onto your weapons until you leave.")
+	showClubNotification("Nous ne tolérons aucune violence par ici. Nous garderons vos armes jusqu'à votre départ.")
 	Citizen.Wait(1000)
 	for k,v in pairs(Config.InsidePeds) do
 		FreezeEntityPosition(v[1], true)
